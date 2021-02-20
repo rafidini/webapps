@@ -5,4 +5,4 @@
 Data apps...
 
 # Apps
-- [🏠 Boston House Prices](www.google.com)
+- [🏠 Boston House Prices](www.google.com) : Application based on the [boston house-prices dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston) for regression.
