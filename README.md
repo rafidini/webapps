@@ -1,5 +1,5 @@
 # Streamlit - Data Apps
-![Streamlit](https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181830b827fae3a2541766_RGB_Logo_Vertical_Color_Dark_Bg-p-1600.png)
+![Streamlit](https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-2000.png)
 
 # About
 Data apps...
